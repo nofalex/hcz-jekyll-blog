@@ -1,11 +1,10 @@
-title: New Blog
-description: My Personal Blog
+title: NoF-Alex Blog
+description: My self-improvment journey
 author: Alex J
 logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
+github: https://github.com/nofalex
 about: Human Being
 disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
 urls:
     - text: Home
       url: /
